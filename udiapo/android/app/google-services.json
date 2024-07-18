@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757339933307",
+    "project_id": "smarturined",
+    "storage_bucket": "smarturined.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757339933307:android:5148a259475c19ca5370de",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1WyoCRGydcWpGGL1l0fQFBUxlQt1C5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+signInSignUpButton(context, true, (){
+                            FirebaseAuth.instance.createUserWithEmailAndPassword(email: _emailTextController.text, 
+                            password: _passwordTextController.text).then((value) (){
+                              Navigator.push(context,
+                              MaterialPageRoute(builder:(context) => SignInScreen()))
+
+
+netsh interface portproxy add v4tov4 listenaddress=192.168.43.147 listenport=1883 connectaddress=127.0.0.1 connectport=1883
+
